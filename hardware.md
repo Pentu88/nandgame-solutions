@@ -1,5 +1,8 @@
 # Hardware
 
+> [!WARNING]
+> Sisältää ratkaisut tasoihin!.
+
 - [Logic level](#logic-level)
   + [Nand](#nand)
   + [Invert](#invert)
